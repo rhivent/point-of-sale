@@ -7,9 +7,11 @@ composer update
 + Depedency yang digunakan: sweetalert, vue.js, vue router, dbal, spatie\role-permission, etc.
 
 LOGIN : 
-role: admin ==> ventus@mail.com
-role: kasir ==> admin@mail.com
-role: outlet ==> cabang@mail.com
-role: guest ==> tamu@mail.com
+<ol>
+<li>role: admin ==> ventus@mail.com</li>
+<li>role: kasir ==> admin@mail.com</li>
+<li>role: outlet ==> cabang@mail.com</li>
+<li>role: guest ==> tamu@mail.com</li>
+</ol>
 
 password untuk semua yaitu : <b>qweqwe</b>
